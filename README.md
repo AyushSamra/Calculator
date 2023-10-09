@@ -1,2 +1,3 @@
 # Calculator
-Real time calculator 
+Real time calculator.
+AUTHOR -- Ayush Samra
